@@ -22,3 +22,4 @@
 ```node src/index.js```
 * No navegador de sua preferência, digite a URL\
 ```http://127.0.0.1:3333```
+* Para encerrar o servidor utilize o atalho ctrl+c no terminal
